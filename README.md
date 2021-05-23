@@ -1,3 +1,4 @@
 # Python_Project
 
-This Project include programs made for practice purpose.
+This project is about HackerRank challenge solution.
+
